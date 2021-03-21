@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://truongphat.group/sitemap.xml
+Host: https://truongphat.group
