@@ -1,8 +1,8 @@
-name: dung.men
+name: truongphat.group
 on: push
 jobs:
   deploy:
-    runs-on: latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
       - uses: enriikke/gatsby-gh-pages-action@v2
